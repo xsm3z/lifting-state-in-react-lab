@@ -1,5 +1,5 @@
-import { availableIngredients } from '../App';
-import Ingredient from './Ingredient';
+import { availableIngredients } from "../App";
+import Ingredient from "./Ingredient";
 
 const IngredientList = ({ addToBurger }) => {
   return (
